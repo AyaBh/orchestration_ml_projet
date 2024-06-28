@@ -1,0 +1,25 @@
+[2024-06-25T12:09:59.266+0200] {processor.py:161} INFO - Started process (PID=13843) to work on /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-06-25T12:09:59.271+0200] {processor.py:830} INFO - Processing file /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-25T12:09:59.272+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:09:59.272+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-06-25T12:09:59.294+0200] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-06-25T12:09:59.599+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:09:59.598+0200] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_complex
+[2024-06-25T12:09:59.608+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:09:59.608+0200] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_complex
+[2024-06-25T12:09:59.615+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:09:59.615+0200] {override.py:1829} INFO - Created Permission View: can read on DAG:example_complex
+[2024-06-25T12:09:59.616+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:09:59.616+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:09:59.627+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:09:59.627+0200] {dag.py:3118} INFO - Creating ORM DAG for example_complex
+[2024-06-25T12:09:59.628+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:09:59.628+0200] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-25T12:09:59.647+0200] {processor.py:183} INFO - Processing /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.384 seconds
+[2024-06-25T12:16:47.571+0200] {processor.py:161} INFO - Started process (PID=14134) to work on /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-06-25T12:16:47.581+0200] {processor.py:830} INFO - Processing file /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-25T12:16:47.583+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:16:47.582+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-06-25T12:16:47.597+0200] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-06-25T12:16:47.738+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:16:47.738+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:16:47.795+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:16:47.795+0200] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-25T12:16:47.814+0200] {processor.py:183} INFO - Processing /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.245 seconds
+[2024-06-25T12:20:34.609+0200] {processor.py:161} INFO - Started process (PID=14242) to work on /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-06-25T12:20:34.620+0200] {processor.py:830} INFO - Processing file /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-06-25T12:20:34.621+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:20:34.621+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-06-25T12:20:34.637+0200] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-06-25T12:20:34.798+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:20:34.798+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:20:34.855+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:20:34.854+0200] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-06-25T12:20:34.881+0200] {processor.py:183} INFO - Processing /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.275 seconds

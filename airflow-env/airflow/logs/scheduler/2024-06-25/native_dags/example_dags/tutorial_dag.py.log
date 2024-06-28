@@ -1,0 +1,67 @@
+[2024-06-25T12:08:23.272+0200] {processor.py:161} INFO - Started process (PID=13786) to work on /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:08:23.275+0200] {processor.py:830} INFO - Processing file /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-06-25T12:08:23.276+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:08:23.276+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:08:23.305+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:08:23.570+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:08:23.569+0200] {override.py:1829} INFO - Created Permission View: can delete on DAG:tutorial_dag
+[2024-06-25T12:08:23.579+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:08:23.578+0200] {override.py:1829} INFO - Created Permission View: can read on DAG:tutorial_dag
+[2024-06-25T12:08:23.584+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:08:23.584+0200] {override.py:1829} INFO - Created Permission View: can edit on DAG:tutorial_dag
+[2024-06-25T12:08:23.585+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:08:23.585+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:08:23.596+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:08:23.596+0200] {dag.py:3118} INFO - Creating ORM DAG for tutorial_dag
+[2024-06-25T12:08:23.597+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:08:23.597+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-06-25T12:08:23.615+0200] {processor.py:183} INFO - Processing /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.346 seconds
+[2024-06-25T12:10:46.558+0200] {processor.py:161} INFO - Started process (PID=13902) to work on /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:10:46.561+0200] {processor.py:830} INFO - Processing file /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-06-25T12:10:46.561+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:10:46.561+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:10:46.593+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:10:46.765+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:10:46.764+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:10:46.776+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:10:46.775+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-06-25T12:10:46.803+0200] {processor.py:183} INFO - Processing /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.248 seconds
+[2024-06-25T12:12:41.031+0200] {processor.py:161} INFO - Started process (PID=13960) to work on /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:12:41.034+0200] {processor.py:830} INFO - Processing file /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-06-25T12:12:41.035+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:12:41.035+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:12:41.061+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:12:41.227+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:12:41.226+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:12:41.236+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:12:41.236+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-06-25T12:12:41.263+0200] {processor.py:183} INFO - Processing /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.235 seconds
+[2024-06-25T12:15:11.560+0200] {processor.py:161} INFO - Started process (PID=14094) to work on /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:15:11.563+0200] {processor.py:830} INFO - Processing file /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-06-25T12:15:11.563+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:15:11.563+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:15:11.592+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:15:11.773+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:15:11.773+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:15:11.783+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:15:11.783+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-06-25T12:15:11.810+0200] {processor.py:183} INFO - Processing /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.253 seconds
+[2024-06-25T12:17:33.905+0200] {processor.py:161} INFO - Started process (PID=14159) to work on /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:17:33.908+0200] {processor.py:830} INFO - Processing file /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-06-25T12:17:33.909+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:17:33.909+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:17:33.933+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:17:34.122+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:17:34.121+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:17:34.138+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:17:34.138+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-06-25T12:17:34.160+0200] {processor.py:183} INFO - Processing /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.258 seconds
+[2024-06-25T12:19:27.717+0200] {processor.py:161} INFO - Started process (PID=14214) to work on /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:19:27.728+0200] {processor.py:830} INFO - Processing file /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-06-25T12:19:27.729+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:19:27.729+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:19:27.759+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:19:27.944+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:19:27.944+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:19:27.955+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:19:27.955+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-06-25T12:19:27.985+0200] {processor.py:183} INFO - Processing /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.271 seconds
+[2024-06-25T12:21:20.661+0200] {processor.py:161} INFO - Started process (PID=14261) to work on /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:21:20.665+0200] {processor.py:830} INFO - Processing file /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-06-25T12:21:20.666+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:21:20.665+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:21:20.693+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:21:20.865+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:21:20.865+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:21:20.875+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:21:20.874+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-06-25T12:21:20.903+0200] {processor.py:183} INFO - Processing /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.246 seconds
+[2024-06-25T12:23:12.570+0200] {processor.py:161} INFO - Started process (PID=14311) to work on /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:23:12.573+0200] {processor.py:830} INFO - Processing file /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-06-25T12:23:12.574+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:23:12.574+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:23:12.602+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:23:12.794+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:23:12.794+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:23:12.804+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:23:12.804+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-06-25T12:23:12.835+0200] {processor.py:183} INFO - Processing /Users/stockly/Downloads/ESGI/orchestration/tp1/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.268 seconds
+[2024-06-25T12:26:06.941+0200] {processor.py:161} INFO - Started process (PID=14426) to work on /Users/stockly/Library/Python/3.9/lib/python/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:26:06.951+0200] {processor.py:830} INFO - Processing file /Users/stockly/Library/Python/3.9/lib/python/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-06-25T12:26:06.952+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:26:06.952+0200] {dagbag.py:545} INFO - Filling up the DagBag from /Users/stockly/Library/Python/3.9/lib/python/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:26:06.977+0200] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/stockly/Library/Python/3.9/lib/python/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-06-25T12:26:07.189+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:26:07.188+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:26:07.199+0200] {logging_mixin.py:188} INFO - [2024-06-25T12:26:07.198+0200] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-06-25T12:26:07.227+0200] {processor.py:183} INFO - Processing /Users/stockly/Library/Python/3.9/lib/python/site-packages/airflow/example_dags/tutorial_dag.py took 0.290 seconds
